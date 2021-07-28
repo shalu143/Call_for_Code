@@ -1,2 +1,11 @@
-# Call_for_Code
-In the Call for Code Global Challenge, you can join the fight against climate change by building and deploying open source solutions in the cloud. By participating, you’ll build critical skills for yourself and your teams and deploy solutions to help communities across the globe.  Built on open source principles, the Call for Code Global Challenge asks developers and problem solvers to form teams and develop solutions that address specific problems in unique, clearly demonstrable ways. The most successful solutions are those scoped to have the greatest community impact with the smallest technological footprint. 
+# Prakriti
+Prakriti is a local marketplace app that doles out relevant information
+empowering consumers to take data-backed decisions.... in a fun way!
+
+In a gamified approach, users are rewarded based on their product purchases. We have created a tool
+that reads purchase bills through OCR and outputs a score based on products bought. We took a data-
+driven universal metric – the ESG (environmental, social and corporate governance) score - which
+measures a company's relative ESG performance, commitment and effectiveness based on publicly-
+reported data. We then combine the ESG score with IBM Watson enabled 'sentiment score', that
+measures a company's exposure to environmental, social and governance controversies and negative
+events reflected in global media by scanning over 25 million media and data sources.
