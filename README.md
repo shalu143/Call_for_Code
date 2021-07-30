@@ -3,7 +3,7 @@ Prakriti is a local marketplace app that doles out relevant information
 empowering consumers to take data-backed decisions.... in a fun way!
 
 ## Contents
-* Submission or Project Name
+* [Submission or Project Name](#Prakriti)
     * Contents
     * Short Description
          * What's the Problem?
