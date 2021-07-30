@@ -29,7 +29,7 @@ and negative events reflected in global media by scanning over 25 million media 
 Prakriti is an app that makes conscious consumerism accessible to all consumers wherever they may be in their eco-friendly journey. The first feature is instant access to metrics that measures any brand's eco-friendly quotient (ESG score + IBM Watson sentiment score) in a gamified manner so that good choices are incentivized through 'green points'. It also has a marketplace for those willing to take an extra step by discovering local and recycled products near them. And the final feature is a community page for the seasoned eco-conscious consumer to share their wisdom and help others in the transition towards conscious consumerism.
 
 ## Demo Video
-[![Demo](https://img.youtube.com/vi/YouTube_video_ID/0.jpg)](https://www.youtube.com/watch?v=dKLI8htWzHo)
+[![Demo](video.png)](https://www.youtube.com/watch?v=dKLI8htWzHo)
 
 ## The Architecture
 ![Architecture](https://github.com/shalu143/Call_for_Code/blob/main/The%20Architecture.png)
