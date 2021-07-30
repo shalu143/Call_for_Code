@@ -1,0 +1,41 @@
+.block {
+    display: block;
+    width: 100%;
+    border: 1px solid #04AA6D;
+    background-color: #fff;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+.centre_block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.centre_one {
+    display: block;
+    margin-left: 5%;
+    margin-right: auto;
+    text-align: center;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding-right: 1em;
+    margin: 1rem;
+}
+
+td {
+    text-align: center;
+}

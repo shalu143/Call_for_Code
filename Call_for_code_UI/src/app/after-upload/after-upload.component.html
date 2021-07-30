@@ -1,0 +1,73 @@
+<div class="row">
+    <div class="col">
+        <div class="row">
+            <div class="col-3">
+                <img src="assets/images/bulb2.jpeg" id="insights" height="140px" width="150px">
+            </div>
+            <div class="col-9">
+                <span><br><br></span>
+                <p class="center-block"><b style="color: #0ea75e;">
+                    Here's a tidbit while the AI does its thing: Deleting just 500 junk mails from your inbox reduces almost 175 gms of CO2!
+                </b></p>
+            </div>
+        </div>
+    </div>
+</div>           
+
+<div class="row">
+    <div class="col">
+        <button (click)="expandProduct()" class="block">Products Detected</button>
+        <ng-container *ngIf="expand_Product">
+            <p class="center-block" style="margin-top: 5%;color: green;" *ngFor="let a of Product"><b>{{a}}</b></p>
+        </ng-container>
+            
+        <br>
+
+        <button (click)="expandGreenPoints()" class="block">Green Points Breakup</button>
+        <div *ngIf="expand_green_pts_brkup">
+            <div class="row">
+                <div class="col">
+
+                    <table>
+                        <tr *ngFor="let p of Product; let i=index">
+                            <td>
+                                {{Product[i]}}
+                            </td>
+                            <td>
+
+                                ESG Risk: {{ESG[i]}}
+                            </td>
+                            <td>
+                                Discovery Sentiment: {{Discovery[i]}}
+                            </td>
+                        </tr>
+                    </table>
+
+
+
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col centre_one">
+                    <p><b>Congratulations! Here are your Green Points bounty!</b></p>
+                    <br>
+                    <p>Use them to Unlock Exclusive discounts, benefits and much more!</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col centre_one">
+                    <p><b style="font-size: 3em;">{{Green_pts}}</b></p>
+                    <img src="assets/images/points2.png" height="60px" width="50px">
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <button (click)="expandInsights()" class="block">Insights Unlocked</button>
+        <p *ngIf="expand_insights">Learn how to make Sustainable Choices!<br>Coming Soon....</p>
+    </div>
+
+
+</div>
