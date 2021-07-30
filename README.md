@@ -32,8 +32,7 @@ Prakriti is an app that makes conscious consumerism accessible to all consumers 
 
 
 ## The Architecture
-![Architecture ](The Architecture.png)
-Format: ![Alt Text](url)
+![Architecture](The Architecture.png)
 
 ## Long Description
 [This the link to the Long Description of the solution](Long_Description.md)
