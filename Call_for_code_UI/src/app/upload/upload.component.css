@@ -1,0 +1,146 @@
+.header {
+    overflow: hidden;
+    background: #fff;
+    height: 55px;
+    width: 100%;
+    box-shadow: 0 1px 8px rgba(0,0,0,0.2);
+    position: fixed;
+    top: 0;
+}
+
+.dash {
+    background-color: #c8dcb4;
+    -webkit-box-shadow: 0 8px 6px -6px #0ea75e;
+    -moz-box-shadow: 0 8px 6px -6px #0ea75e;
+    box-shadow: 0 8px 6px -6px #0ea75e;
+}
+
+#userImage{
+    margin-top: 3em;
+    margin-left: 5em;
+    border-radius: 50%;
+    margin-bottom: 3em;
+}
+
+#userName{
+    margin-top: 2em;
+    margin-left: 10em;
+}
+
+#insights{
+    margin-top: 2em;
+    float: right;
+}
+
+figure{
+   display: block;
+}
+figcaption{
+   padding: 2px;
+   text-align: center;
+}
+
+.text-block{
+   position: absolute;
+   top: 55%;
+   left: 45%;
+   padding-right: 20px;
+
+}
+
+.center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.right{
+   margin-left: 70%;
+}
+.right-corner{
+   position: relative;
+   bottom: 30px;
+   right: 10px;
+}
+
+*{
+   box-sizing: border-box;
+}
+
+form.example input[type=text] {
+   padding: 10px;
+   font-size: 17px;
+   border: 1px solid grey;
+   width: 50%;
+   background: #f1f1f1;
+}
+
+form.example button{
+   width: 10%;
+   padding: 10px;
+   background: #0ea75e;
+   color: white;
+   font-size: 17px;
+   border: 1px solid grey;
+   border-left: none;
+   cursor: pointer;
+}
+form.example button:hover{
+   background: #0b7dda;
+}
+
+
+form.example::after{
+   content: "";
+   clear: both;
+   display: table;
+}
+
+.right-corner-upload{
+   position: relative;
+   top: 50%;
+   right: 15%
+}
+
+.example{
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.center-block{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+
+}
+input[type=text] {
+   width: 130px;
+   -webkit-transition: width 0.4s ease-in-out;
+   transition: width 0.4s ease-in-out;
+}
+
+input[type=text] :focus{
+   width: 100%;
+   
+}
+
+p.dashed
+{border-style: dashed;}
+
+#my_file{
+    margin-left: 35%;
+    float: right;
+    padding-top: 5%;
+}
+
+#file_upload {
+    float: left;
+    padding: 0;
+}
+
+.float_right{
+   margin-top: 0.2em;
+   margin-left: 17%;
+}

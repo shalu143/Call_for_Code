@@ -1,0 +1,51 @@
+<div class="row">
+
+    <div class="col">
+        <p class="center-block"><b>Click to upload your Bills and mint green points</b></p>
+        <div class="row">
+            <div class="col">
+                <div class="row">
+                    <div class="col">
+                        <input type="file" (change)="upload($event)" id="my_file" accept=".pdf">
+                    </div>
+                    <div class="col">
+                        <img src="assets/images/bill2.jpeg" height="180px" width="250px" id="file_img">
+                        <img class="text-block" src="assets/images/arr.png" height="70px" width="90px">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <span></span>
+    </div>
+</div>
+
+<hr>
+<div class="row">
+    <div class="col" style="text-align: center;">
+        <p>
+            <b>Enter <u>Product</u>/<u>Brand</u>/<u>Company</u>to get green score:</b>
+        </p>
+        <form class="example">
+            <input type="text" name="search" (input)="search_text($event)" placeholder="Search..">
+            <button type="button" (click)="onSubmit()"><i class="fa fa-search"></i></button>
+        </form>
+    </div>
+</div>
+<br>
+<br>
+
+<div class="row">
+    <div class="col">
+        <p style="margin-left: 10%;"><mark style="padding: 2%;background-color: rgb(252,228,156);"><b>ESG Score: {{ESG}}</b></mark></p>
+        <img src="assets/images/ESG_legend.png" height="50px" width="290px">
+        
+
+    </div>
+    <div class="col">
+        <p style="text-align: center;"><mark style="padding: 2%;background-color: rgb(252,228,156);"><b>Discovery Sentiment:{{Discovery}} </b></mark></p>
+        <img class="float_right" src="assets/images/watson_legend.png" height="60px" width="290px">
+    </div>
+</div>
+
