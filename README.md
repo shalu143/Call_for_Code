@@ -4,11 +4,11 @@ empowering consumers to take data-backed decisions.... in a fun way!
 
 ## Contents
 * [Submission or Project Name](#Prakriti)
-    * [Contents] (#Contents)
+    * [Contents](#Contents)
     * [Short Description](#Short-description)
-         * What's the Problem?
-         * How Technology can help
-         * The Idea
+         * [What's the Problem?](#what's-the-problem)
+         * [How Technology can help](#how-technology-can-help)
+         * [The Idea](#the-idea)
     * [Demo Video](#Demo-video)
     * [The Architecture](#the-architecture)
     * [Long Description](#Long-description)
