@@ -16,3 +16,9 @@ empowering consumers to take data-backed decisions.... in a fun way!
     * [Getting Started](#Getting-started)
     * [Built-with](#Built-with)
     * [Acknowledgments](#Acknowledgments)
+
+
+## Short Description
+### What's the Problem
+### How Technology can help
+### The Idea
