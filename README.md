@@ -60,5 +60,5 @@ The final step is to deploy the Angular app in local host/prodcution server
 * [IBM OCR Module on Watson Studio](http://max-ocr.codait-prod-41208c73af8fca213512856c7a09db52-0000.us-east.containers.appdomain.cloud/)
 
 ## Acknowledgments
-we would like to acknowledge the guidance provided by our Mentors Mr Rajnish Kumar and Mr Kunal Chhajer
+we would like to acknowledge the guidance provided by our Mentors Mr Rajnish Kumar and Mr Kunal Chhajer<br>
 ESG Scores from Yahoo Finance
