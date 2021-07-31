@@ -35,10 +35,10 @@ Prakriti is an app that makes conscious consumerism accessible to all consumers 
 ![Architecture](https://github.com/shalu143/Call_for_Code/blob/main/The%20Architecture.png)
 
 ## Long Description
-[This the link to the Long Description of the solution](https://github.com/shalu143/Call_for_Code/blob/main/Documents/Long_Description.md)
+[Long Description of the solution](https://github.com/shalu143/Call_for_Code/blob/main/Documents/Long_Description.md)
 
 ## Project Roadmap
-![RoadMap](https://github.com/shalu143/Call_for_Code/blob/main/Documents/Prakriti_Roadmap.pdf)
+[![RoadMap](Roadmap.png)](https://github.com/shalu143/Call_for_Code/blob/main/Documents/Prakriti_Roadmap.pdf)
 
 ## Getting Started
 
