@@ -1,6 +1,5 @@
 # Prakriti: Enabling Conscious Consumerism
-Prakriti is an eco marketplace app that doles out relevant information
-empowering consumers to take data-backed decisions.... in a fun way!
+Prakriti is an app that makes conscious consumerism accessible to all consumers wherever they may be in their eco-friendly journey. 
 
 ## Contents
 * [Submission or Project Name](#Prakriti)
