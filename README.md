@@ -32,7 +32,7 @@ Prakriti is an app that makes conscious consumerism accessible to all consumers 
 
 ## The Architecture
 ![Architecture](https://github.com/shalu143/Call_for_Code/blob/main/The%20Architecture.png)
-* The user navigates to site and has options of either directly searching the product name or upload the bills
+* The user opens the app and has options of either directly searching the product name or uploading the bills
 * The Search Db module will take the product entered by user and fetches the ESG/Discovery sentiment score from IBM cloudant
 * The OCR module will detect the products from the uploaded bill and fetches ESG/Discovery sentiment score from IBM Cloudant
 * Watson Discovery fetches sustainability sentiments from global media
