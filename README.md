@@ -52,7 +52,7 @@ There are three parts to the project
 * Angular app for the front- end
 
 To get started, deploy the API in the local host/production server and update the URl in the angular after-upload and upload app components.
-The final step is to deploy the Angular app in local host/prodcution server
+The final step is to deploy the Angular app in local host/production server
 
 ## Built-with
 * [IBM Watson Discovery News](https://www.ibm.com/watson/services/discovery-news/)
