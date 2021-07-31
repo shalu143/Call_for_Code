@@ -28,7 +28,7 @@ Technology is the way forward to solve a problem as complex as this. In order to
 Prakriti is an app that makes conscious consumerism accessible to all consumers wherever they may be in their eco-friendly journey. The first feature is instant access to metrics that measures any brand's eco-friendly quotient (ESG score + IBM Watson sentiment score) in a gamified manner so that good choices are incentivized through 'green points'. It also has a marketplace for those willing to take an extra step by discovering local and recycled products near them. And the final feature is a community page for the seasoned eco-conscious consumer to share their wisdom and help others in the transition towards conscious consumerism.
 
 ## Demo Video
-[![Demo](Thumbnail.png)](https://www.youtube.com/watch?v=dKLI8htWzHo)
+[![Demo](Thumbnail.png)](https://www.youtube.com/watch?v=1GEbIXslcAc)
 
 ## The Architecture
 ![Architecture](https://github.com/shalu143/Call_for_Code/blob/main/The%20Architecture.png)
@@ -46,8 +46,18 @@ Prakriti is an app that makes conscious consumerism accessible to all consumers 
 [![RoadMap](Roadmap.png)](https://github.com/shalu143/Call_for_Code/blob/main/Documents/Prakriti_Roadmap.pdf)
 
 ## Getting Started
+There are three parts to the project
+* Run the ESG/Discovery sentiments codes to fetch the ESG/Discovery score to populate the IBM cloudant DB
+* Flask API for OCR/ searching module to fetch the ESG/Discovery sentiment Score
+* Angular app for the front- end
+
+To get started, deploy the API in the local host/production server and update the URl in the angular after-upload and upload app components.
+The final step is to deploy the Angular app in local host/prodcution server
 
 ## Built-with
-http://max-ocr.codait-prod-41208c73af8fca213512856c7a09db52-0000.us-east.containers.appdomain.cloud/
+[IBM Watson Discovery News](https://www.ibm.com/watson/services/discovery-news/)
+[IBM Cloudant](https://www.ibm.com/cloud/cloudant)
+[IBM OCR Module on Watson Studio](http://max-ocr.codait-prod-41208c73af8fca213512856c7a09db52-0000.us-east.containers.appdomain.cloud/)
 
 ## Acknowledgments
+we would like to acknowledge the guidance provided by our Mentors Mr Rajnish Kumar and Mr Kunal Chhajer
