@@ -61,3 +61,4 @@ The final step is to deploy the Angular app in local host/prodcution server
 
 ## Acknowledgments
 we would like to acknowledge the guidance provided by our Mentors Mr Rajnish Kumar and Mr Kunal Chhajer
+ESG Scores from Yahoo Finance
